@@ -1,0 +1,8 @@
+hello
+double
+text
+integer
+string
+double
+hi 
+character
